@@ -1,4 +1,4 @@
 # JavaFXinicial
 
 
-![](/img/img_read_me.png)
+![](/FX%Basic/img/img_read_me.png)
